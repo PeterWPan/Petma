@@ -1,3 +1,9 @@
+REplaACE double spaces with &nbsp;&nbsp; (or one space followed by &nbsp;)
+
+Replace apostrophe with &apos;
+
+
+
 Note re Modifying profile page after generating from bio Word document
 In /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
