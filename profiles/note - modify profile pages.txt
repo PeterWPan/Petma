@@ -1,0 +1,16 @@
+REplaACE double spaces with &nbsp;&nbsp; (or one space followed by &nbsp;)
+
+Replace apostrophe with &apos;
+
+
+
+Note re Modifying profile page after generating from bio Word document
+In /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+
+- could change margin-left to 1.5 cm (say) but this cruches up rendering on narrow screens
+- use single cell table instead
+
+Convert from Word by saving as 'Web Page, Filtered' (simpler HTML)

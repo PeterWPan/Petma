@@ -1,0 +1,44 @@
+
+      
+      /* contact  */
+      .contact-grid{
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+        margin-top: 30px;
+        margin-right: 50px;
+        margin-left: 50px;
+        margin-bottom: 15px;
+        row-gap: 20px;
+        column-gap: 20px;
+        z-index:1;
+        
+      }
+
+
+      .contact-title{
+        font-family: Lumanosimo;
+        color: darkblue;
+        font-weight: bold;
+        font-size: 14px;
+        text-align: right;
+        vertical-align: middle;
+        width: 100%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-weight: 700;    
+        /* line-height: 18px; */
+        
+      
+      }
+
+      .contact-txt{
+        font-family: roberto,arial;
+        color: black;
+        font-weight: 700;
+        font-size: 14px;
+        text-align: left;
+        width: 100%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+       
+      }
